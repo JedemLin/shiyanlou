@@ -1,2 +1,1 @@
-# shiyanlou
-Git 课程测试
+git is so easy the only thing you need is practise.g
